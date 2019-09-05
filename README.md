@@ -15,3 +15,12 @@ To run the program, type the following line in the terminal:
 
 
 ./project
+
+----------------------------------------
+
+I have attached two examples under the example folder so that you can try it out. However, you need to rename the two stories accordingly to the play-driver.cpp
+
+
+
+
+ENJOY!
