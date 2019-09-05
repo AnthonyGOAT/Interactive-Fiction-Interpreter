@@ -6,6 +6,12 @@ The project was actually an IF interpreter that leveraged the inheritance polymo
 
 For additional information, please review the attached assignment pdf file.
 
-To run the program, you can use g++ by typing the following line in the terminal:
+To build the program, you can use g++ by typing the following line in the terminal:
 
-g++ *.cpp 
+g++ -g *.cpp -o project
+
+----------------------------------------
+To run the program, type the following line in the terminal:
+
+
+./project
