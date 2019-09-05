@@ -5,3 +5,7 @@ This project is written in C++, implemented what I've learned from the object an
 The project was actually an IF interpreter that leveraged the inheritance polymorphism and to pratice with my understanding of object oriented programing.
 
 For additional information, please review the attached assignment pdf file.
+
+To run the program, you can use g++ by typing the following line in the terminal:
+
+g++ *.cpp 
